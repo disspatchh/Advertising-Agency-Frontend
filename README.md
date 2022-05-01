@@ -29,8 +29,8 @@ _Стек технологий_
 
 ---
 _Команда проекта_
-- [Шамиль Гачаев](https://github.com/shamml)
-- [Марк Рахмаев](https://github.com/disspatchh)
-- [Турпал Гатаев](https://github.com/a1one1)
-- [Акбулат Ахмадов](https://github.com/Arsadidas)
-- [Турко Турко](https://github.com/zarksas)
+- [shamml](https://github.com/shamml)
+- [Марк](https://github.com/disspatchh)
+- [alone1](https://github.com/a1one1)
+- [Arsadidas](https://github.com/Arsadidas)
+- [zarksas](https://github.com/zarksas)
